@@ -1,16 +1,8 @@
+let title = 1;
+let screens = 2;
+let screenPrice = 3;
+let rollback = 4;
+let fullPrice = 5;
+let adaptive = 6;
 alert("Hello world!");
-console.log("Hello console!"); // comm
-
-/*
-hkhkhhk
-khkhkkh
-jjhhkkhk
-*/
-
-// const myFirstvar = 1;
-
-// const myFunc = () => {
-//   console.log(myFirstvar);
-// };
-
-// myFunc()
+console.log("Hello console!");
